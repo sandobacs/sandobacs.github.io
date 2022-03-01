@@ -1,2 +1,2 @@
 # sandobacs.github.io
-GitHub page for sandobacs
+GitHub page for Sandobacs!
